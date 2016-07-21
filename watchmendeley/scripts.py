@@ -92,7 +92,7 @@ def _mendeleysync():
     # ================================
     # Run with command line arguments
     # ================================
-    fix_higgs_paper(arg.input, arg._output)
+    fix_higgs_paper(arg.input, arg.output)
 
 if __name__ == '__main__':
     # ================================
